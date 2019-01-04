@@ -4742,11 +4742,6 @@ node-gyp@^3.8.0:
     tar "^2.0.0"
     which "1"
 
-node-laravel@^0.9.5:
-  version "0.9.5"
-  resolved "https://registry.yarnpkg.com/node-laravel/-/node-laravel-0.9.5.tgz#b7bdff66715cba371e741ab36cf42c43cc020228"
-  integrity sha512-Ge7762xqVMaZ2sVTtOoQTeBgXF52fWNo/eOCCIJ5rdfjDWQ/YmpyO+99/8sZHfB1/FIfK/srpDq74NzPQlu5hw==
-
 node-libs-browser@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/node-libs-browser/-/node-libs-browser-2.1.0.tgz#5f94263d404f6e44767d726901fff05478d600df"
